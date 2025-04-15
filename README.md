@@ -1,5 +1,3 @@
-Segue o trecho do README.md com as seções solicitadas, sem o estilo de terminal (sem os blocos de código):
-
 ---
 
 # Sabor & Som
