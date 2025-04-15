@@ -1,5 +1,3 @@
----
-
 # Sabor & Som
 
 ## 🚀 Funcionalidades
@@ -8,16 +6,12 @@
 - **Drinks:** Receba o nome, imagem e instruções de um drink popular.
 - **Snacks:** Sugestão de uma sobremesa ou lanche para completar sua experiência.
 
----
-
 ## 🛠️ Tecnologias Utilizadas
 
 - **Front-end:** HTML, CSS e JavaScript  
 - **Back-end:** Node.js com Express  
 - **APIs:** [TheCocktailDB](https://www.thecocktaildb.com), [TheMealDB](https://www.themealdb.com) e [Last.fm](https://www.last.fm)  
 - **Controle de Versão:** Git  
-
----
 
 ## 📥 Instalação
 
@@ -43,6 +37,4 @@
 
 5. **Acesse o Projeto:**
 
-   Abra seu navegador e vá para http://localhost:3001
-
----
+   Abra o navegador em http://localhost:3001
